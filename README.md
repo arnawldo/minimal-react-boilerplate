@@ -1,0 +1,1 @@
+Minimalistic setup for React with Webpack and Babel
